@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Killzshop
-- 🌱 I’m currently learning Python actually
+- 🌱 I’m currently learning Python
 
 <!---
 Killzshop/Killzshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
